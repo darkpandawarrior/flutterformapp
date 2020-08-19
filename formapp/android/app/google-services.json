@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285817460828",
+    "firebase_url": "https://profilerapp-85ac2.firebaseio.com",
+    "project_id": "profilerapp-85ac2",
+    "storage_bucket": "profilerapp-85ac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285817460828:android:601f0aec8bc46a1ba4ae99",
+        "android_client_info": {
+          "package_name": "com.example.formapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285817460828-c6gsre2o81spoiiitdph2mp882eqjg8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFY6KDCIp_tFEdMkMnzUquwF1zqUtBecM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285817460828-c6gsre2o81spoiiitdph2mp882eqjg8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
